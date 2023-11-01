@@ -1,6 +1,6 @@
 ## Rock Paper Scissors
 
-
+To make this project, I used data types : List, Variable, Integer, String ...
 Making a rock, paper, scissors game. 
 
 Inside the `main.py` file, you'll find the ASCII art for the hand signals already saved to a corresponding variable: `rock`, `paper`, and `scissors`. This will make it easy to print them out to the console. 
@@ -17,4 +17,5 @@ From there you will need to figure out:
 
 You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/)
 
-
+Feel free to contribute...
+Thank you 
